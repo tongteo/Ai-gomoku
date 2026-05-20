@@ -1,0 +1,6 @@
+{
+  "name": "Gomoku Calculator",
+  "description": "A native Gomoku and Renju analysis calculator with real-time board evaluations, win probability analysis, and custom game setups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
